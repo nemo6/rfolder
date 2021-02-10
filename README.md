@@ -1,3 +1,3 @@
 # rfolder
 
-Récursive index des fichiers d'un dossier et ses sous-dossiers
+Index récursif des fichiers d'un dossier et ses sous-dossiers
